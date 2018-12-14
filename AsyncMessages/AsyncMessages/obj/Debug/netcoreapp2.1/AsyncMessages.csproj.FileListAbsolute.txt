@@ -1,0 +1,11 @@
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\bin\Debug\netcoreapp2.1\AsyncMessages.deps.json
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\bin\Debug\netcoreapp2.1\AsyncMessages.runtimeconfig.json
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\bin\Debug\netcoreapp2.1\AsyncMessages.runtimeconfig.dev.json
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\bin\Debug\netcoreapp2.1\AsyncMessages.dll
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\bin\Debug\netcoreapp2.1\AsyncMessages.pdb
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\obj\Debug\netcoreapp2.1\AsyncMessages.csprojAssemblyReference.cache
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\obj\Debug\netcoreapp2.1\AsyncMessages.csproj.CoreCompileInputs.cache
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\obj\Debug\netcoreapp2.1\AsyncMessages.AssemblyInfoInputs.cache
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\obj\Debug\netcoreapp2.1\AsyncMessages.AssemblyInfo.cs
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\obj\Debug\netcoreapp2.1\AsyncMessages.dll
+C:\Users\kinder\source\repos\AsyncMessages\AsyncMessages\obj\Debug\netcoreapp2.1\AsyncMessages.pdb
